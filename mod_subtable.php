@@ -2,8 +2,8 @@
 /**
  * @version		$Id: mod_subtable.php 786 2018-02-05 17:40:09 kaushik.shivendra@gmail.com
  * @package		Subtable v3.01
- * @author		Umika Technologies LLP https://www.umikatechnologies.com
- * @copyright	Copyright (c) 2012 Umika Technologies LLP. All rights reserved.
+ * @author		3stechnosolutions LLP https://www.3stechnosolutions.com
+ * @copyright	Copyright (c) 2012 3stechnosolutions LLP. All rights reserved.
  * @license		GNU/GPL license: http://www.gnu.org/copyleft/gpl.html
  */
 // no direct access

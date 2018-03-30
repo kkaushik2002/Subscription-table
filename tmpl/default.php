@@ -314,5 +314,5 @@ xmlhttp.send();
 </div>
 </div>
 <!--Please don't remove the below code Thanks-->
-<div id="currency_info"><a href="https://umikatechnologies.com"  target="_blank" rel="following"><img src="<?php echo JURI::root(); ?>modules/mod_subtable/assets/images/umikatechnologies.png" alt="Umika Technologies LLP"></a></div>
+<div id="currency_info"><a href="https://3stechnosolutions.com"  target="_blank" rel="following"><img src="<?php echo JURI::root(); ?>modules/mod_subtable/assets/images/3stechnosolutions.png" alt="3stechnosolutions LLP"></a></div>
 </div>

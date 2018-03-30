@@ -22,7 +22,7 @@ class modSubtableHelper
 	public function getconverterAjax() {
        	jimport('joomla.application.module.helper');
 		$input  = JFactory::getApplication()->input;
-		$link = '<a href="https://3stechnosolutions.com"  target="_blank" rel="following"><img src="'.JURI::root().'modules/mod_subtable/assets/images/3stechnosolutions.png" alt="3stechnosolutions LLP"></a>';
+		$link = '<a href="https://3stechnosolutions.com"  target="_blank" rel="following"><img src="'.JURI::root().'modules/mod_subtable/assets/images/3stechnosolutions.jpg" alt="3stechnosolutions LLP"></a>';
 		$amountcol1 = $input->get('amount1', 'default_value', 'string');
 		$amountcol2 = $input->get('amount2', 'default_value', 'string');
 		$amountcol3 = $input->get('amount3', 'default_value', 'string');

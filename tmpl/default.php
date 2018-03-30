@@ -2,7 +2,7 @@
 /**
  * @version		$Id: default.php 786 2018-02-05 17:40:09 kaushik.shivendra@gmail.com
  * @package		Subtable v3.01
- * @author		3stechnosolutions LLP https://www.umikatechnologies.com
+ * @author		3stechnosolutions LLP https://www.3stechnosolutions.com
  * @copyright	Copyright (c) 2012 3stechnosolutions LLP. All rights reserved.
  * @license		GNU/GPL license: http://www.gnu.org/copyleft/gpl.html
  */
@@ -314,5 +314,5 @@ xmlhttp.send();
 </div>
 </div>
 <!--Please don't remove the below code Thanks-->
-<div id="currency_info"><a href="https://3stechnosolutions.com"  target="_blank" rel="following"><img src="<?php echo JURI::root(); ?>modules/mod_subtable/assets/images/3stechnosolutions.png" alt="3stechnosolutions LLP"></a></div>
+<div id="currency_info"><a href="https://3stechnosolutions.com"  target="_blank" rel="following"><img src="<?php echo JURI::root(); ?>modules/mod_subtable/assets/images/3stechnosolutions.jpg" alt="3stechnosolutions LLP"></a></div>
 </div>

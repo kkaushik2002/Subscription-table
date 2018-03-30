@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <extension type="module" version="3.8" method="upgrade">
-	<name>Subscription Table Subtable</name>
+	<name>Subscription Price Table</name>
 	<creationDate>2018-03-10</creationDate>
 	<author>Shivendra kaushik</author>
 	<authorEmail>kaushik.shivendra@gmail.com</authorEmail>
-	<authorUrl>https://www.umikatechnologies.com</authorUrl>
+	<authorUrl>https://www.3stechnosolutions.com</authorUrl>
 	<copyright>Copyright (C) 2018  Open Source Matters. All rights reserved.</copyright>	
 	<license>GNU/GPL Version 2 or later - http://www.gnu.org/licenses/gpl-2.0.html</license>
 	<version>3.01</version>
